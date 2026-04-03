@@ -1,0 +1,73 @@
+
+A. Frontier Model API Providers (Token Sellers)
+These are the companies whose API token prices NVIDIA is implicitly undercutting.
+
+OpenAI
+
+Anthropic
+
+Google (Gemini)
+
+xAI (Grok)
+
+Mistral
+
+B. Inference Hosting Platforms (Open‑Source Model Runtimes)
+These are the exact companies NVIDIA publicly cited as achieving massive cost drops on Blackwell.
+
+Together AI
+
+Fireworks AI
+
+Baseten
+
+DeepInfra
+
+C. Cloud Providers Running LLMs at Scale
+Token cost is directly tied to their GPU infrastructure.
+
+Amazon Web Services (AWS)
+
+Microsoft Azure
+
+Google Cloud Platform (GCP)
+
+D. Hardware Competitors (Token Cost via Compute Efficiency)
+These aren’t token sellers, but their chips define token cost for anyone running models.
+
+AMD (MI300, MI325)
+
+Intel (Gaudi accelerators)
+
+Google (TPU v4, v5e, v5p)
+
+Meta (MTIA accelerators)
+
+Broadcom (custom AI accelerators for hyperscalers)
+
+E. Hyperscalers With Internal Token Factories
+These companies run massive internal inference workloads where token cost is a core metric.
+
+Meta
+
+Google
+
+Amazon
+
+Microsoft
+
+Tesla (for FSD training/inference)
+
+Condensed Version (If you want it ultra‑minimal)
+All major API providers, all inference hosts, all cloud platforms, all GPU/accelerator vendors, and all hyperscalers running 
+LLMs.
+
+If you want, I can also produce:
+
+a hierarchical map showing how each category relates to token economics
+
+a Mint‑Unit alignment showing where NVIDIA’s framing stops and your substrate begins
+
+a public‑facing artifact listing these entities in your preferred style
+
+Just tell me which direction you want to take it.
